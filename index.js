@@ -13,7 +13,7 @@ ageIsValid = Number.isInteger(currentAge);
 
 let randomNumber = Math.random() * 20;
 
-// let randomInteger = Math.floor(randomNumber);
+let randomInteger = Math.floor(randomNumber);
 
-// let randomUserID = 1000000000 + Math.floor(Math.random() * 20 ) + 1;
+let randomUserID = 1000000000 + Math.floor(Math.random() * 20 ) + 1;
 
